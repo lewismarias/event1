@@ -194,6 +194,9 @@
       </Events>
     </Component>
     <Component class="javax.swing.JTextField" name="jTextField1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="lewis marias"/>
+      </Properties>
     </Component>
     <Component class="javax.swing.JTextField" name="jTextField2">
       <Events>

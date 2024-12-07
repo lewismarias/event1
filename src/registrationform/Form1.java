@@ -88,6 +88,8 @@ public class Form1 extends javax.swing.JFrame {
             }
         });
 
+        jTextField1.setText("lewis marias");
+
         jTextField2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jTextField2ActionPerformed(evt);
